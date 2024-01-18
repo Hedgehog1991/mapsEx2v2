@@ -1,3 +1,3 @@
 export default {
-    base: "/mapsEx2v2"
+    base: "/Exv2"
 }
